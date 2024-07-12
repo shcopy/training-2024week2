@@ -1,0 +1,145 @@
+.introduction {
+	padding-top: 160px;
+	padding-bottom: 160px;
+	background-image: url("../assets/images/background-img.png");
+}
+
+.introduction-body {
+	width: 526px;
+}
+
+.contentme-btn {
+	display: flex;
+	background: #FFFFFF;
+	width: 185px;
+	padding: 12px 24px;
+	border-radius: 32px;
+	align-items: center;
+	line-height: 24px;
+	color: #000000;
+}
+
+.contentme-btn:hover {
+	color: #ff0000;
+}
+
+
+.introduction-body h3 {
+	font-size: 64px;
+	line-height: 96px;
+	color: #FFFFFF;
+}
+
+.introduction-body p {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 36px;
+	color: #FFFFFF;
+}
+
+.about {
+	padding-top: 160px;
+	padding-bottom: 160px;
+}
+
+.about-card {
+	width: 636px;
+}
+
+.about-card ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.about-card li {
+	display: block;
+	width: 306px;
+	margin-bottom: 24px;
+	padding: 16px;
+	border: 1px solid #E3E3E3;
+}
+
+.about-card li h4 {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 30px;
+	color: #15161D;
+}
+
+.about-card lip {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #15161D;
+}
+
+
+.about-card li:hover {
+	box-shadow: 4px 4px 4px 0 #00000014;
+}
+
+
+.about-body {
+	width: 526px;
+}
+
+.about-body h3 {
+	font-size: 64px;
+	line-height: 96px;
+	text-align: left;
+	color: #000000;
+	margin-bottom: 36px;
+}
+
+.about-body p {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 36px;
+	color: #000000;
+}
+
+.contact {
+	padding-top: 96px;
+	padding-bottom: 96px;
+	background: linear-gradient(180deg, #050014 0%, rgba(1, 2, 30, 0.89) 100%);
+}
+
+.contact h3 {
+	font-size: 64px;
+	line-height: 96px;
+	color: #FFFFFF;
+}
+
+.contact .social li:hover {
+	box-shadow: 0 0 16px 3px #9094FFE5;
+	/* box-shadow: 0 4px 4px 0 #00000040; */
+}
+
+.project {
+	padding-top: 160px;
+	padding-bottom: 160px;
+}
+
+.project h3 {
+	font-size: 64px;
+	line-height: 96px;
+	color: #000000;
+}
+
+.seemore-btn {
+	display: flex;
+	background: #000000;
+	width: 185px;
+	padding: 12px 24px;
+	border-radius: 32px;
+	align-items: center;
+	line-height: 24px;
+}
+
+.seemore-btn:hover {
+	color: #ff0000;
+}
+
+
+

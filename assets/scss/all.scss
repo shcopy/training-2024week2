@@ -1,0 +1,22 @@
+// Import google 雲端字體
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1 &display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
+
+// Import base styles
+@import './base/base';
+
+
+
+
+// Import Layout styles
+@import './layout/layout';
+
+@import './layout/header';
+@import './layout/footer';
+
+// Import index styles
+@import './pages/index';
+
+// Import css reset
+@import './base/reset';

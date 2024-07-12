@@ -1,0 +1,49 @@
+.header {
+	background-color: #000000;
+}
+
+
+.nav {
+	padding-top: 40px;
+}
+
+.navbar-nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav-item {}
+
+.nav-link {
+	color: #FFFFFF;
+}
+
+.nav-link:hover {
+	color: red;
+}
+
+.banner {
+	padding-top: 72px;
+	padding-bottom: 72px;
+	
+	display: flex;
+	justify-content: space-between;
+}
+
+.banner-body {
+	width: 636px;
+	margin-top: 232px;
+}
+
+.banner-body p {
+	font-size: 64px;
+	line-height: 96px;
+	color: #FFFFFF;
+}
+
+.banner-body h2 {
+	font-size: 128px;
+	line-height: 192px;
+	color: #00FFA3;
+	text-align: right;
+}
