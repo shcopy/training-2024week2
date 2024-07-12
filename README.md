@@ -41,9 +41,9 @@ git init # 若已經初始化過就可以不用輸入
 git add .
 git commit -m 'first commit'
 git branch -M main
-git remote add origin [GitHub Repositories Url]
+git remote add origin [[GitHub Repositories Url]](https://github.com/shcopy/training-2024week2.git)
 git push -u origin main // 僅限第一次輸入，往後只需要輸入 git push
 ```
 
-3. 初始化完畢後，執行 `npm run deploy` 指令進行自動化部署
+1. 初始化完畢後，執行 `npm run deploy` 指令進行自動化部署
 # training-2024week2
