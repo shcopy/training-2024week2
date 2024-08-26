@@ -47,3 +47,4 @@ git push -u origin main // 僅限第一次輸入，往後只需要輸入 git pus
 
 1. 初始化完畢後，執行 `npm run deploy` 指令進行自動化部署
 # training-2024week2
+"# training-2024week7" 
